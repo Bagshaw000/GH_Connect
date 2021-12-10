@@ -1,0 +1,27 @@
+.body{
+    color:#6C63FF;
+    background-color:white;
+    height:250px;
+}
+.Container{
+    background-color:white;
+    width:500px;
+    height:150px;
+    margin-top:150px;
+    margin-left:450px;
+    border-radius:10px;
+    border: 2px solid #6C63FF;
+}
+.button{
+    color:white;
+    background-color:#6C63FF;
+    border: 1px solid #6C63FF;
+    width:80px;
+    font-size:18px;
+    font-family:Poppins;
+    border-radius:5px;
+}
+.head{
+    font-size:18px;
+    font-family:Poppins;
+}
